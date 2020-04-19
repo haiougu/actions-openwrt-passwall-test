@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt Lionel
+name: Build OpenWrt Lionel 20200409
 
 on:
   release:
