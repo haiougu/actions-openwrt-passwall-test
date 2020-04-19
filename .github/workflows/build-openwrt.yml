@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt WRT
+name: Build OpenWrt TEST2
 
 on:
   release:
